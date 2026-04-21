@@ -7,27 +7,6 @@ R analysis, SQL queries, and a Power BI dashboard are used in an exploratory dat
 ## Dataset, The source is [data.gov].(https://catalog.data.gov/dataset/warehouse-and-retail-sales)307,547 records
 Time Frame: 2017–2020 
 
-## Structure of the Repository:
-
-Sales-data-analysis/
-│
-├── README.md
-│
-├── R/
-│   ├── warehouse_retail_analysis.R
-│   └── plots/
-│       ├── 01_top10_products.png
-│       ├── 02_monthly_trend.png
-│       ├── 03_growth_rate.png
-│       ├── 04_seasonality.png
-│       ├── 05_sales_by_product_type.png
-│       ├── 06_retail_vs_warehouse.png
-│       ├── 07_volatility_cv.png
-│       └── 08_normalized_sales.png
-│
-└── SQL/
-└── warehouse_retail_queries.sql
-
 ## R Analysis
 - Cleaning and converting data types
 - The top ten items in terms of retail sales
