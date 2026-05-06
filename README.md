@@ -4,7 +4,7 @@
 
 R analysis, SQL queries, and a Power BI dashboard are used in an exploratory data study of Montgomery County, Maryland warehouse and retail sales data.
 
-## Dataset, The source is [data.gov].(https://catalog.data.gov/dataset/warehouse-and-retail-sales)307,547 records
+## Dataset, The source is [data.gov].(https://catalog.data.gov/dataset/warehouse-and-retail-sales) 307,547 records
 Time Frame: 2017–2020 
 
 ## R Analysis
